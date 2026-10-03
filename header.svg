@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-label="Hai, aku Fina">
+  <defs>
+    <pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#2b8791"/>
+    </pattern>
+    <clipPath id="c1"><rect x="70" y="90" width="0" height="48"><animate attributeName="width" from="0" to="380" begin="0.4s" dur="1.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="70" y="150" width="0" height="30"><animate attributeName="width" from="0" to="200" begin="2.4s" dur="1.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="70" y="185" width="0" height="30"><animate attributeName="width" from="0" to="270" begin="3.8s" dur="1.6s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <rect width="900" height="300" fill="#1f6f78"/>
+  <rect width="900" height="300" fill="url(#dots)"/>
+
+  <rect x="48" y="38" width="820" height="240" fill="#0d1117" opacity="0.55"/>
+  <rect x="40" y="30" width="820" height="240" fill="#e4daf0" stroke="#2a1f3d" stroke-width="3"/>
+
+  <rect x="40" y="30" width="820" height="30" fill="#c4486f" stroke="#2a1f3d" stroke-width="3"/>
+  <text x="54" y="51" font-family="'Courier New',Courier,monospace" font-size="15" font-weight="bold" fill="#ffffff">fina.exe</text>
+  <g font-family="'Courier New',Courier,monospace" font-size="14" font-weight="bold" fill="#2a1f3d" text-anchor="middle">
+    <rect x="788" y="36" width="18" height="18" fill="#e4daf0" stroke="#2a1f3d" stroke-width="2"/><text x="797" y="50">_</text>
+    <rect x="810" y="36" width="18" height="18" fill="#e4daf0" stroke="#2a1f3d" stroke-width="2"/><text x="819" y="50">+</text>
+    <rect x="832" y="36" width="18" height="18" fill="#e4daf0" stroke="#2a1f3d" stroke-width="2"/><text x="841" y="50">x</text>
+  </g>
+
+  <g font-family="'Courier New',Courier,monospace">
+    <text clip-path="url(#c1)" x="70" y="125" font-size="34" font-weight="bold" fill="#2a1f3d">C:\&gt; hai, aku Fina</text>
+    <text clip-path="url(#c2)" x="70" y="170" font-size="20" fill="#c4486f">fina nuril aulia</text>
+    <text clip-path="url(#c3)" x="70" y="205" font-size="20" fill="#1f6f78">web + machine learning</text>
+  </g>
+  <rect x="338" y="187" width="11" height="20" fill="#2a1f3d" opacity="0">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="5.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <g transform="translate(700 100) scale(14)" fill="#ef6f91">
+    <rect x="1" y="0" width="2" height="1"/><rect x="4" y="0" width="2" height="1"/>
+    <rect x="0" y="1" width="7" height="1"/><rect x="0" y="2" width="7" height="1"/>
+    <rect x="1" y="3" width="5" height="1"/><rect x="2" y="4" width="3" height="1"/>
+    <rect x="3" y="5" width="1" height="1"/>
+    <animate attributeName="opacity" values="1;0.55;1" dur="1.4s" repeatCount="indefinite"/>
+  </g>
+
+  <rect x="43" y="243" width="814" height="24" fill="#cfc3e3" stroke="#2a1f3d" stroke-width="2"/>
+  <text x="56" y="260" font-family="'Courier New',Courier,monospace" font-size="13" fill="#2a1f3d">status: online  |  (c) 2026 fina nuril aulia</text>
+</svg>
