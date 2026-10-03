@@ -6,12 +6,26 @@
 C:\FINA> type tentang.txt
 
  > nama   : Fina Nuril Aulia
+ > level  : 1 (pemula, tapi konsisten belajar)
  > lagi   : belajar bikin web dan model prediksi (Python)
  > suka   : proyek yang bermanfaat, dari kesehatan sampai deteksi jalan
  > tanya  : soal proyek-proyek di bawah, boleh banget
 
 C:\FINA> _
 ```
+
+### Lagi dipelajari
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/finanrl/finanrl/main/belajar.svg" alt="Progress belajar" width="100%">
+</p>
+
+### Target belajar
+
+- [x] Bikin proyek pertama dan menaruhnya di GitHub
+- [ ] Rapikan README di setiap proyek
+- [ ] Latihan Python sedikit demi sedikit setiap minggu
+- [ ] Bikin satu proyek machine learning dari awal sampai tampil di web
 
 ### Perkakas
 
@@ -30,4 +44,4 @@ C:\FINA> _
 
 ✉️ [finanurilaulia2104@gmail.com](mailto:finanurilaulia2104@gmail.com) &nbsp;·&nbsp; 📷 [@finanrl_](https://instagram.com/finanrl_)
 
-<p align="center"><sub>(c) 2026 Fina Nuril Aulia · paling enak dibuka sambil ngopi</sub></p>
+<p align="center"><sub>(c) 2026 Fina Nuril Aulia · masih belajar, masih naik level</sub></p>
