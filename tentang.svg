@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 310" width="900" height="310" role="img" aria-label="Tentang Fina Nuril Aulia">
+  <defs>
+    <pattern id="haz" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="16" fill="#ff5a1f"/></pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1.5" fill="#000" opacity="0.3"/></pattern>
+    <clipPath id="c1"><rect x="70" y="66" width="0" height="24"><animate attributeName="width" from="0" to="780" begin="0.3s" dur="1s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="70" y="96" width="0" height="24"><animate attributeName="width" from="0" to="780" begin="1.5s" dur="0.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="70" y="124" width="0" height="24"><animate attributeName="width" from="0" to="780" begin="2.2s" dur="0.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="70" y="152" width="0" height="24"><animate attributeName="width" from="0" to="780" begin="2.9s" dur="0.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c5"><rect x="70" y="180" width="0" height="24"><animate attributeName="width" from="0" to="780" begin="3.6s" dur="0.7s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c6"><rect x="70" y="208" width="0" height="24"><animate attributeName="width" from="0" to="780" begin="4.3s" dur="0.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c7"><rect x="70" y="242" width="0" height="24"><animate attributeName="width" from="0" to="200" begin="5.2s" dur="0.5s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <rect width="900" height="310" fill="#07080a"/>
+  <polygon points="40,12 840,12 860,32 860,298 60,298 40,278" fill="#0f1115" stroke="#ff5a1f" stroke-width="2"/>
+  <rect x="60" y="16" width="770" height="6" fill="url(#haz)"/>
+  <rect x="52" y="60" width="5" height="210" fill="#ff5a1f"/>
+  <text x="70" y="44" font-family="'Courier New',Courier,monospace" font-size="14" fill="#ff5a1f">// tentang.txt</text>
+
+  <g font-family="'Courier New',Courier,monospace" font-size="16">
+    <text clip-path="url(#c1)" x="70" y="84" fill="#ff5a1f">C:\FINA&gt; type tentang.txt</text>
+
+    <g clip-path="url(#c2)"><text x="70" y="114" fill="#7fd8ff">nama</text><text x="135" y="114" fill="#8a94a6">:</text><text x="155" y="114" fill="#f2f4f8">Fina Nuril Aulia</text></g>
+    <g clip-path="url(#c3)"><text x="70" y="142" fill="#7fd8ff">level</text><text x="135" y="142" fill="#8a94a6">:</text><text x="155" y="142" fill="#f2f4f8">1 (pemula, tapi konsisten belajar)</text></g>
+    <g clip-path="url(#c4)"><text x="70" y="170" fill="#7fd8ff">lagi</text><text x="135" y="170" fill="#8a94a6">:</text><text x="155" y="170" fill="#f2f4f8">belajar bikin web dan model prediksi (Python)</text></g>
+    <g clip-path="url(#c5)"><text x="70" y="198" fill="#7fd8ff">suka</text><text x="135" y="198" fill="#8a94a6">:</text><text x="155" y="198" fill="#f2f4f8">proyek yang bermanfaat, dari kesehatan sampai deteksi jalan</text></g>
+    <g clip-path="url(#c6)"><text x="70" y="226" fill="#7fd8ff">tanya</text><text x="135" y="226" fill="#8a94a6">:</text><text x="155" y="226" fill="#f2f4f8">soal proyek-proyek di bawah, boleh banget</text></g>
+
+    <text clip-path="url(#c7)" x="70" y="260" fill="#ff5a1f">C:\FINA&gt;</text>
+  </g>
+  <rect x="150" y="245" width="10" height="18" fill="#ff5a1f" opacity="0">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="5.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <polygon points="40,12 840,12 860,32 860,298 60,298 40,278" fill="url(#scan)"/>
+</svg>
