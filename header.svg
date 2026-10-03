@@ -1,57 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-label="Hai, aku Fina - pemula yang semangat belajar">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-label="Fina Nuril Aulia - web dan machine learning">
   <defs>
-    <filter id="g" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#161d33" stroke-width="1"/></pattern>
-    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1.5" fill="#000" opacity="0.28"/></pattern>
-    <clipPath id="c1"><rect x="70" y="82" width="0" height="48"><animate attributeName="width" from="0" to="380" begin="0.4s" dur="1.8s" fill="freeze"/></rect></clipPath>
-    <clipPath id="c2"><rect x="70" y="136" width="0" height="26"><animate attributeName="width" from="0" to="200" begin="2.4s" dur="1.2s" fill="freeze"/></rect></clipPath>
-    <clipPath id="c3"><rect x="70" y="168" width="0" height="26"><animate attributeName="width" from="0" to="405" begin="3.8s" dur="2s" fill="freeze"/></rect></clipPath>
-    <clipPath id="c4"><rect x="70" y="200" width="0" height="24"><animate attributeName="width" from="0" to="245" begin="6s" dur="1.4s" fill="freeze"/></rect></clipPath>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#12151b" stroke-width="1"/></pattern>
+    <pattern id="haz" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="16" fill="#ff5a1f"/></pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1.5" fill="#000" opacity="0.3"/></pattern>
+    <clipPath id="c0"><rect x="70" y="52" width="0" height="24"><animate attributeName="width" from="0" to="190" begin="0.3s" dur="0.9s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c1"><rect x="70" y="86" width="0" height="48"><animate attributeName="width" from="0" to="430" begin="1.3s" dur="1.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="70" y="144" width="0" height="28"><animate attributeName="width" from="0" to="300" begin="3.1s" dur="1.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="70" y="183" width="0" height="26"><animate attributeName="width" from="0" to="450" begin="4.5s" dur="1.8s" fill="freeze"/></rect></clipPath>
   </defs>
 
-  <rect width="900" height="300" fill="#0b0f1a"/>
+  <rect width="900" height="300" fill="#07080a"/>
   <rect width="900" height="300" fill="url(#grid)"/>
-  <g fill="#ffc857">
-    <circle cx="16" cy="20" r="2"><animate attributeName="opacity" values="1;0.2;1" dur="2.2s" repeatCount="indefinite"/></circle>
-    <circle cx="884" cy="38" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.7s" repeatCount="indefinite"/></circle>
-    <circle cx="872" cy="286" r="2"><animate attributeName="opacity" values="1;0.2;1" dur="2.8s" repeatCount="indefinite"/></circle>
-    <circle cx="22" cy="272" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/></circle>
-    <circle cx="450" cy="14" r="2"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
-    <circle cx="450" cy="288" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" repeatCount="indefinite"/></circle>
-  </g>
-
-  <rect x="48" y="38" width="820" height="240" fill="#ff4fa3" opacity="0.35"/>
-  <rect x="40" y="30" width="820" height="240" fill="#121829" stroke="#ff4fa3" stroke-width="3"/>
-  <rect x="40" y="30" width="820" height="30" fill="#ff4fa3"/>
-  <text x="54" y="51" font-family="'Courier New',Courier,monospace" font-size="15" font-weight="bold" fill="#0b0f1a">fina.exe</text>
-  <g font-family="'Courier New',Courier,monospace" font-size="14" font-weight="bold" fill="#ff4fa3" text-anchor="middle">
-    <rect x="788" y="36" width="18" height="18" fill="#0b0f1a"/><text x="797" y="50">_</text>
-    <rect x="810" y="36" width="18" height="18" fill="#0b0f1a"/><text x="819" y="50">+</text>
-    <rect x="832" y="36" width="18" height="18" fill="#0b0f1a"/><text x="841" y="50">x</text>
-  </g>
+  <polygon points="40,20 840,20 860,40 860,270 60,270 40,250" fill="#0f1115" stroke="#ff5a1f" stroke-width="2"/>
+  <rect x="60" y="24" width="770" height="6" fill="url(#haz)"/>
+  <rect x="52" y="56" width="5" height="170" fill="#ff5a1f"/>
 
   <g font-family="'Courier New',Courier,monospace">
-    <text clip-path="url(#c1)" x="70" y="118" font-size="34" font-weight="bold" fill="#ffffff">C:\&gt; hai, aku Fina</text>
-    <text clip-path="url(#c2)" x="70" y="155" font-size="20" fill="#ff4fa3">fina nuril aulia</text>
-    <text clip-path="url(#c3)" x="70" y="187" font-size="20" fill="#4de0d0">pemula yang lagi semangat belajar</text>
-    <text clip-path="url(#c4)" x="70" y="217" font-size="18" fill="#ffc857">web + machine learning</text>
+    <text clip-path="url(#c0)" x="70" y="70" font-size="16" fill="#ff5a1f">root@fina:~$ whoami</text>
+    <text clip-path="url(#c1)" x="70" y="125" font-size="44" font-weight="bold" fill="#f2f4f8">FINA NURIL AULIA</text>
+    <text clip-path="url(#c2)" x="70" y="165" font-size="22" fill="#7fd8ff">web + machine learning</text>
+    <text clip-path="url(#c3)" x="70" y="200" font-size="17" fill="#8a94a6">status: pemula, tapi nggak berhenti belajar</text>
   </g>
-  <rect x="312" y="201" width="10" height="20" fill="#4de0d0" opacity="0">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="7.5s" repeatCount="indefinite"/>
+  <rect x="513" y="185" width="10" height="20" fill="#ff5a1f" opacity="0">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="6.4s" repeatCount="indefinite"/>
   </rect>
 
-  <g transform="translate(690 92) scale(14)" fill="#ff4fa3" filter="url(#g)">
-    <rect x="1" y="0" width="2" height="1"/><rect x="4" y="0" width="2" height="1"/>
-    <rect x="0" y="1" width="7" height="1"/><rect x="0" y="2" width="7" height="1"/>
-    <rect x="1" y="3" width="5" height="1"/><rect x="2" y="4" width="3" height="1"/>
-    <rect x="3" y="5" width="1" height="1"/>
-    <animate attributeName="opacity" values="1;0.55;1" dur="1.4s" repeatCount="indefinite"/>
+  <g transform="translate(730 150)" fill="none">
+    <circle r="80" stroke="#1d222b" stroke-width="2"/>
+    <circle r="64" stroke="#ff5a1f" stroke-width="3" stroke-dasharray="6 10">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="46" stroke="#7fd8ff" stroke-width="2" stroke-dasharray="40 14">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M-92 0H-72M72 0H92M0 -92V-72M0 72V92" stroke="#8a94a6" stroke-width="2"/>
+    <text y="9" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="26" font-weight="bold" fill="#f2f4f8" stroke="none">LV.1</text>
   </g>
-  <text x="739" y="213" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="24" font-weight="bold" fill="#ffc857" filter="url(#g)">LV.1
-    <animate attributeName="opacity" values="1;0.4;1" dur="1.4s" repeatCount="indefinite"/>
-  </text>
 
-  <rect x="43" y="243" width="814" height="24" fill="#0b0f1a" stroke="#ff4fa3" stroke-width="2"/>
-  <text x="56" y="260" font-family="'Courier New',Courier,monospace" font-size="13" fill="#4de0d0">status: online  |  lagi belajar  |  (c) 2026 fina nuril aulia</text>
-  <rect x="40" y="30" width="820" height="240" fill="url(#scan)"/>
+  <line x1="60" y1="246" x2="850" y2="246" stroke="#1d222b" stroke-width="2"/>
+  <circle cx="72" cy="259" r="4" fill="#ff5a1f"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
+  <text x="86" y="263" font-family="'Courier New',Courier,monospace" font-size="12" fill="#8a94a6">[ ONLINE ]  github.com/finanrl  |  (c) 2026</text>
+  <polygon points="40,20 840,20 860,40 860,270 60,270 40,250" fill="url(#scan)"/>
 </svg>
