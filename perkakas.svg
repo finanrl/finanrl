@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 150" width="900" height="150" role="img" aria-label="Perkakas: HTML, CSS, Python, Jupyter, Git, VS Code">
+  <defs>
+    <pattern id="haz" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="16" fill="#ff5a1f"/></pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1.5" fill="#000" opacity="0.3"/></pattern>
+  </defs>
+  <rect width="900" height="150" fill="#07080a"/>
+  <polygon points="40,12 840,12 860,32 860,138 60,138 40,118" fill="#0f1115" stroke="#ff5a1f" stroke-width="2"/>
+  <rect x="60" y="16" width="770" height="6" fill="url(#haz)"/>
+  <text x="70" y="44" font-family="'Courier New',Courier,monospace" font-size="14" fill="#ff5a1f">// perkakas.cfg</text>
+  <text x="845" y="44" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="13" fill="#8a94a6">6 modul aktif</text>
+
+  <g font-family="'Courier New',Courier,monospace" font-size="18" font-weight="bold" fill="#f2f4f8" text-anchor="middle">
+    <g transform="translate(70 62)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.3s" fill="freeze"/>
+      <polygon points="0,0 63,0 73,10 73,40 10,40 0,30" fill="#151921" stroke="#ff5a1f" stroke-width="2"/><text x="36" y="26">HTML</text></g>
+    <g transform="translate(155 62)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.6s" dur="0.3s" fill="freeze"/>
+      <polygon points="0,0 52,0 62,10 62,40 10,40 0,30" fill="#151921" stroke="#7fd8ff" stroke-width="2"/><text x="31" y="26">CSS</text></g>
+    <g transform="translate(229 62)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.3s" fill="freeze"/>
+      <polygon points="0,0 85,0 95,10 95,40 10,40 0,30" fill="#151921" stroke="#ff5a1f" stroke-width="2"/><text x="47" y="26">Python</text></g>
+    <g transform="translate(336 62)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.2s" dur="0.3s" fill="freeze"/>
+      <polygon points="0,0 96,0 106,10 106,40 10,40 0,30" fill="#151921" stroke="#7fd8ff" stroke-width="2"/><text x="53" y="26">Jupyter</text></g>
+    <g transform="translate(454 62)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.3s" fill="freeze"/>
+      <polygon points="0,0 52,0 62,10 62,40 10,40 0,30" fill="#151921" stroke="#ff5a1f" stroke-width="2"/><text x="31" y="26">Git</text></g>
+    <g transform="translate(528 62)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.3s" fill="freeze"/>
+      <polygon points="0,0 96,0 106,10 106,40 10,40 0,30" fill="#151921" stroke="#7fd8ff" stroke-width="2"/><text x="53" y="26">VS Code</text></g>
+  </g>
+
+  <rect x="70" y="118" width="0" height="2" fill="#ff5a1f"><animate attributeName="width" from="0" to="720" begin="0.2s" dur="2.2s" fill="freeze"/></rect>
+  <polygon points="40,12 840,12 860,32 860,138 60,138 40,118" fill="url(#scan)"/>
+</svg>
