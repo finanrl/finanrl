@@ -22,10 +22,19 @@ C:\FINA> _
 
 ### Target belajar
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/finanrl/finanrl/main/target.svg" alt="Target belajar: 4 dari 4 selesai" width="100%">
+</p>
+
+<details>
+<summary>Lihat versi teks</summary>
+
 - [x] Bikin proyek pertama dan menaruhnya di GitHub
-- [ ] Rapikan README di setiap proyek
-- [ ] Latihan Python sedikit demi sedikit setiap minggu
-- [ ] Bikin satu proyek machine learning dari awal sampai tampil di web
+- [x] Rapikan README di setiap proyek
+- [x] Latihan Python sedikit demi sedikit setiap minggu
+- [x] Bikin satu proyek machine learning dari awal sampai tampil di web
+
+</details>
 
 ### Perkakas
 
