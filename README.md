@@ -38,19 +38,30 @@ C:\FINA> _
 
 ### Perkakas
 
-`HTML` `CSS` `Python` `Jupyter Notebook` `Git` `VS Code`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/finanrl/finanrl/main/perkakas.svg" alt="Perkakas: HTML, CSS, Python, Jupyter, Git, VS Code" width="100%">
+</p>
 
 ### Proyek
 
-| Proyek | Tentang |
-| --- | --- |
-| [breastcancer-prediction](https://github.com/finanrl/breastcancer-prediction) | Prediksi kanker payudara |
-| [diabetes-web](https://github.com/finanrl/diabetes-web) | Web prediksi diabetes |
-| [road-detection1](https://github.com/finanrl/road-detection1) | Deteksi jalan (Jupyter Notebook) |
-| [tsm-web](https://github.com/finanrl/tsm-web) | Proyek web |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/finanrl/finanrl/main/proyek.svg" alt="Proyek" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/finanrl/breastcancer-prediction">breastcancer-prediction</a> ·
+  <a href="https://github.com/finanrl/diabetes-web">diabetes-web</a> ·
+  <a href="https://github.com/finanrl/road-detection1">road-detection1</a> ·
+  <a href="https://github.com/finanrl/tsm-web">tsm-web</a>
+</p>
 
 ### Kontak
 
-✉️ [finanurilaulia2104@gmail.com](mailto:finanurilaulia2104@gmail.com) &nbsp;·&nbsp; 📷 [@finanrl_](https://instagram.com/finanrl_)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/finanrl/finanrl/main/footer.svg" alt="Kontak: finanurilaulia2104@gmail.com, Instagram @finanrl_" width="100%">
+</p>
 
-<p align="center"><sub>(c) 2026 Fina Nuril Aulia · masih belajar, masih naik level</sub></p>
+<p align="center">
+  <a href="mailto:finanurilaulia2104@gmail.com">Kirim email</a> ·
+  <a href="https://instagram.com/finanrl_">Buka Instagram</a>
+</p>
