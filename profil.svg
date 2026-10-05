@@ -1,0 +1,377 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1760" width="900" height="1760" role="img" aria-label="Profil GitHub Fina Nuril Aulia">
+<defs>
+<filter id="g" x="-30%" y="-30%" width="160%" height="160%">
+<feGaussianBlur stdDeviation="2.5" result="b"/>
+<feMerge>
+<feMergeNode in="b"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+<path d="M30 0H0V30" fill="none" stroke="#12151b" stroke-width="1"/>
+</pattern>
+<pattern id="haz" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+<rect width="8" height="16" fill="#ff5a1f"/>
+</pattern>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+<rect width="4" height="1.5" fill="#000" opacity="0.3"/>
+</pattern>
+<pattern id="seg" width="10" height="14" patternUnits="userSpaceOnUse">
+<rect x="8" width="2" height="14" fill="#0f1115"/>
+</pattern>
+<clipPath id="k1">
+<rect x="70" y="52" width="0" height="24">
+<animate attributeName="width" values="0;0;190;190" keyTimes="0;0.0214;0.0857;1" dur="14.0s" repeatCount="indefinite"/>
+</rect>
+</clipPath>
+<clipPath id="k2">
+<rect x="70" y="86" width="0" height="48">
+<animate attributeName="width" values="0;0;430;430" keyTimes="0;0.0929;0.2071;1" dur="14.0s" repeatCount="indefinite"/>
+</rect>
+</clipPath>
+<clipPath id="k3">
+<rect x="70" y="144" width="0" height="28">
+<animate attributeName="width" values="0;0;300;300" keyTimes="0;0.2214;0.3071;1" dur="14.0s" repeatCount="indefinite"/>
+</rect>
+</clipPath>
+<clipPath id="k4">
+<rect x="70" y="183" width="0" height="26">
+<animate attributeName="width" values="0;0;450;450" keyTimes="0;0.3214;0.4500;1" dur="14.0s" repeatCount="indefinite"/>
+</rect>
+</clipPath>
+<clipPath id="k5">
+<rect x="70" y="66" width="0" height="24">
+<animate attributeName="width" values="0;0;780;780" keyTimes="0;0.0214;0.0929;1" dur="14.0s" repeatCount="indefinite"/>
+</rect>
+</clipPath>
+<clipPath id="k6">
+<rect x="70" y="96" width="0" height="24">
+<animate attributeName="width" values="0;0;780;780" keyTimes="0;0.1071;0.1500;1" dur="14.0s" repeatCount="indefinite"/>
+</rect>
+</clipPath>
+<clipPath id="k7">
+<rect x="70" y="124" width="0" height="24">
+<animate attributeName="width" values="0;0;780;780" keyTimes="0;0.1571;0.2000;1" dur="14.0s" repeatCount="indefinite"/>
+</rect>
+</clipPath>
+<clipPath id="k8">
+<rect x="70" y="152" width="0" height="24">
+<animate attributeName="width" values="0;0;780;780" keyTimes="0;0.2071;0.2500;1" dur="14.0s" repeatCount="indefinite"/>
+</rect>
+</clipPath>
+<clipPath id="k9">
+<rect x="70" y="180" width="0" height="24">
+<animate attributeName="width" values="0;0;780;780" keyTimes="0;0.2571;0.3071;1" dur="14.0s" repeatCount="indefinite"/>
+</rect>
+</clipPath>
+<clipPath id="k10">
+<rect x="70" y="208" width="0" height="24">
+<animate attributeName="width" values="0;0;780;780" keyTimes="0;0.3071;0.3500;1" dur="14.0s" repeatCount="indefinite"/>
+</rect>
+</clipPath>
+<clipPath id="k11">
+<rect x="70" y="242" width="0" height="24">
+<animate attributeName="width" values="0;0;200;200" keyTimes="0;0.3714;0.4071;1" dur="14.0s" repeatCount="indefinite"/>
+</rect>
+</clipPath>
+<clipPath id="k12">
+<rect x="70" y="62" width="0" height="22">
+<animate attributeName="width" values="0;0;780;780" keyTimes="0;0.0214;0.1214;1" dur="14.0s" repeatCount="indefinite"/>
+</rect>
+</clipPath>
+<clipPath id="k13">
+<rect x="70" y="90" width="0" height="22">
+<animate attributeName="width" values="0;0;780;780" keyTimes="0;0.1286;0.2000;1" dur="14.0s" repeatCount="indefinite"/>
+</rect>
+</clipPath>
+</defs>
+<rect width="900" height="1760" fill="#07080a"/>
+<rect width="900" height="1760" fill="url(#grid)"/>
+<g transform="translate(0 0)">
+<polygon points="40,20 840,20 860,40 860,270 60,270 40,250" fill="#0f1115" stroke="#ff5a1f" stroke-width="2"/>
+<rect x="60" y="24" width="770" height="6" fill="url(#haz)"/>
+<rect x="52" y="56" width="5" height="170" fill="#ff5a1f"/>
+<g font-family="'Courier New',Courier,monospace">
+<text clip-path="url(#k1)" x="70" y="70" font-size="16" fill="#ff5a1f">root@fina:~$ whoami</text>
+<text clip-path="url(#k2)" x="70" y="125" font-size="44" font-weight="bold" fill="#f2f4f8">FINA NURIL AULIA</text>
+<text clip-path="url(#k3)" x="70" y="165" font-size="22" fill="#7fd8ff">web + machine learning</text>
+<text clip-path="url(#k4)" x="70" y="200" font-size="17" fill="#8a94a6">status: pemula, tapi nggak berhenti belajar</text>
+</g>
+<text x="70" y="125" font-family="'Courier New',Courier,monospace" font-size="44" font-weight="bold" fill="#7fd8ff" opacity="0">FINA NURIL AULIA<animate attributeName="opacity" values="0;0;0.85;0;0.6;0;0;0.85;0;0.6;0;0" keyTimes="0.0000;0.2857;0.2893;0.3000;0.3107;0.3214;0.6429;0.6464;0.6571;0.6679;0.6786;1.0000" dur="14.0s" repeatCount="indefinite"/>
+<animate attributeName="x" values="70;70;65;70;75;70;70;65;70;75;70;70" keyTimes="0.0000;0.2857;0.2893;0.3000;0.3107;0.3214;0.6429;0.6464;0.6571;0.6679;0.6786;1.0000" dur="14.0s" repeatCount="indefinite"/>
+</text>
+<text x="70" y="125" font-family="'Courier New',Courier,monospace" font-size="44" font-weight="bold" fill="#ff5a1f" opacity="0">FINA NURIL AULIA<animate attributeName="opacity" values="0;0;0.85;0;0.6;0;0;0.85;0;0.6;0;0" keyTimes="0.0000;0.2857;0.2893;0.3000;0.3107;0.3214;0.6429;0.6464;0.6571;0.6679;0.6786;1.0000" dur="14.0s" repeatCount="indefinite"/>
+<animate attributeName="x" values="70;70;76;70;64;70;70;76;70;64;70;70" keyTimes="0.0000;0.2857;0.2893;0.3000;0.3107;0.3214;0.6429;0.6464;0.6571;0.6679;0.6786;1.0000" dur="14.0s" repeatCount="indefinite"/>
+</text>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" values="0;1" keyTimes="0;0.4571" dur="14.0s" repeatCount="indefinite"/>
+<rect x="513" y="185" width="10" height="20" fill="#ff5a1f">
+<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+</g>
+<g transform="translate(730 150)" fill="none">
+<circle r="80" stroke="#1d222b" stroke-width="2"/>
+<circle r="64" stroke="#ff5a1f" stroke-width="3" stroke-dasharray="6 10">
+<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/>
+</circle>
+<circle r="46" stroke="#7fd8ff" stroke-width="2" stroke-dasharray="40 14">
+<animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="9s" repeatCount="indefinite"/>
+</circle>
+<line x1="0" y1="0" x2="0" y2="-78" stroke="#7fd8ff" stroke-width="2" opacity="0.7">
+<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/>
+</line>
+<path d="M-92 0H-72M72 0H92M0 -92V-72M0 72V92" stroke="#8a94a6" stroke-width="2"/>
+<text y="9" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="26" font-weight="bold" fill="#f2f4f8" stroke="none">&lt;/&gt;</text>
+</g>
+<line x1="60" y1="246" x2="850" y2="246" stroke="#1d222b" stroke-width="2"/>
+<circle cx="72" cy="259" r="4" fill="#ff5a1f">
+<animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/>
+</circle>
+<text x="86" y="263" font-family="'Courier New',Courier,monospace" font-size="12" fill="#8a94a6">[ ONLINE ]  github.com/finanrl  |  (c) 2026</text>
+<polygon points="40,20 840,20 860,40 860,270 60,270 40,250" fill="url(#scan)"/>
+</g>
+<g transform="translate(0 300)">
+<polygon points="40,12 840,12 860,32 860,298 60,298 40,278" fill="#0f1115" stroke="#ff5a1f" stroke-width="2"/>
+<rect x="60" y="16" width="770" height="6" fill="url(#haz)"/>
+<text x="70" y="44" font-family="'Courier New',Courier,monospace" font-size="14" fill="#ff5a1f">// tentang.txt</text>
+<rect x="52" y="60" width="5" height="210" fill="#ff5a1f"/>
+<g font-family="'Courier New',Courier,monospace" font-size="16">
+<text clip-path="url(#k5)" x="70" y="84" fill="#ff5a1f">C:\FINA&gt; type tentang.txt</text>
+<g clip-path="url(#k6)">
+<text x="70" y="114" fill="#7fd8ff">nama</text>
+<text x="135" y="114" fill="#8a94a6">:</text>
+<text x="155" y="114" fill="#f2f4f8">Fina Nuril Aulia</text>
+</g>
+<g clip-path="url(#k7)">
+<text x="70" y="142" fill="#7fd8ff">status</text>
+<text x="135" y="142" fill="#8a94a6">:</text>
+<text x="155" y="142" fill="#f2f4f8">pemula, tapi konsisten belajar</text>
+</g>
+<g clip-path="url(#k8)">
+<text x="70" y="170" fill="#7fd8ff">lagi</text>
+<text x="135" y="170" fill="#8a94a6">:</text>
+<text x="155" y="170" fill="#f2f4f8">belajar bikin web dan model prediksi (Python)</text>
+</g>
+<g clip-path="url(#k9)">
+<text x="70" y="198" fill="#7fd8ff">suka</text>
+<text x="135" y="198" fill="#8a94a6">:</text>
+<text x="155" y="198" fill="#f2f4f8">proyek yang bermanfaat, dari kesehatan sampai deteksi jalan</text>
+</g>
+<g clip-path="url(#k10)">
+<text x="70" y="226" fill="#7fd8ff">tanya</text>
+<text x="135" y="226" fill="#8a94a6">:</text>
+<text x="155" y="226" fill="#f2f4f8">soal proyek-proyek di bawah, boleh banget</text>
+</g>
+<text clip-path="url(#k11)" x="70" y="260" fill="#ff5a1f">C:\FINA&gt;</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" values="0;1" keyTimes="0;0.4143" dur="14.0s" repeatCount="indefinite"/>
+<rect x="152" y="245" width="10" height="18" fill="#ff5a1f">
+<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+</g>
+<polygon points="40,12 840,12 860,32 860,298 60,298 40,278" fill="url(#scan)"/>
+</g>
+<g transform="translate(0 610)">
+<polygon points="40,20 840,20 860,40 860,220 60,220 40,200" fill="#0f1115" stroke="#ff5a1f" stroke-width="2"/>
+<rect x="60" y="24" width="770" height="6" fill="url(#haz)"/>
+<text x="70" y="52" font-family="'Courier New',Courier,monospace" font-size="14" fill="#ff5a1f">// belajar.log</text>
+<g font-family="'Courier New',Courier,monospace" font-size="16" fill="#f2f4f8">
+<text x="70" y="88">HTML</text>
+<text x="690" y="88" font-weight="bold">60%</text>
+<text x="70" y="120">Python</text>
+<text x="690" y="120" font-weight="bold">40%</text>
+<text x="70" y="152">Machine Learning</text>
+<text x="690" y="152" font-weight="bold">25%</text>
+<text x="70" y="184">Git</text>
+<text x="690" y="184" font-weight="bold">30%</text>
+</g>
+<rect x="270" y="75" width="400" height="14" fill="#1a1e26"/>
+<rect x="270" y="75" width="0" height="14" fill="#ff5a1f">
+<animate attributeName="width" values="0;0;240;240" keyTimes="0;0.0214;0.1071;1" dur="14.0s" repeatCount="indefinite"/>
+</rect>
+<rect x="270" y="75" width="400" height="14" fill="url(#seg)"/>
+<rect x="270" y="107" width="400" height="14" fill="#1a1e26"/>
+<rect x="270" y="107" width="0" height="14" fill="#7fd8ff">
+<animate attributeName="width" values="0;0;160;160" keyTimes="0;0.0429;0.1286;1" dur="14.0s" repeatCount="indefinite"/>
+</rect>
+<rect x="270" y="107" width="400" height="14" fill="url(#seg)"/>
+<rect x="270" y="139" width="400" height="14" fill="#1a1e26"/>
+<rect x="270" y="139" width="0" height="14" fill="#ff5a1f">
+<animate attributeName="width" values="0;0;100;100" keyTimes="0;0.0643;0.1500;1" dur="14.0s" repeatCount="indefinite"/>
+</rect>
+<rect x="270" y="139" width="400" height="14" fill="url(#seg)"/>
+<rect x="270" y="171" width="400" height="14" fill="#1a1e26"/>
+<rect x="270" y="171" width="0" height="14" fill="#7fd8ff">
+<animate attributeName="width" values="0;0;120;120" keyTimes="0;0.0857;0.1714;1" dur="14.0s" repeatCount="indefinite"/>
+</rect>
+<rect x="270" y="171" width="400" height="14" fill="url(#seg)"/>
+<text x="70" y="208" font-family="'Courier New',Courier,monospace" font-size="12" fill="#8a94a6">// pemula itu bukan masalah, yang penting jalan terus</text>
+<polygon points="40,20 840,20 860,40 860,220 60,220 40,200" fill="url(#scan)"/>
+</g>
+<g transform="translate(0 850)">
+<polygon points="40,20 840,20 860,40 860,250 60,250 40,230" fill="#0f1115" stroke="#ff5a1f" stroke-width="2"/>
+<rect x="60" y="24" width="770" height="6" fill="url(#haz)"/>
+<text x="70" y="52" font-family="'Courier New',Courier,monospace" font-size="14" fill="#ff5a1f">// misi.log  -  4/4 selesai</text>
+<g font-family="'Courier New',Courier,monospace" font-size="16" fill="#f2f4f8">
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.0214;0.0500;1" dur="14.0s" repeatCount="indefinite"/>
+<rect x="70" y="74" width="20" height="20" fill="none" stroke="#7fd8ff" stroke-width="2"/>
+<path d="M74 84 L79 89 L88 78" fill="none" stroke="#7fd8ff" stroke-width="3" stroke-dasharray="24" stroke-dashoffset="24">
+<animate attributeName="stroke-dashoffset" values="24;24;0;0" keyTimes="0;0.0357;0.0643;1" dur="14.0s" repeatCount="indefinite"/>
+</path>
+<text x="108" y="90">Bikin proyek pertama dan menaruhnya di GitHub</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.0857;0.1143;1" dur="14.0s" repeatCount="indefinite"/>
+<rect x="70" y="109" width="20" height="20" fill="none" stroke="#7fd8ff" stroke-width="2"/>
+<path d="M74 119 L79 124 L88 113" fill="none" stroke="#7fd8ff" stroke-width="3" stroke-dasharray="24" stroke-dashoffset="24">
+<animate attributeName="stroke-dashoffset" values="24;24;0;0" keyTimes="0;0.1000;0.1286;1" dur="14.0s" repeatCount="indefinite"/>
+</path>
+<text x="108" y="125">Rapikan README di setiap proyek</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1500;0.1786;1" dur="14.0s" repeatCount="indefinite"/>
+<rect x="70" y="144" width="20" height="20" fill="none" stroke="#7fd8ff" stroke-width="2"/>
+<path d="M74 154 L79 159 L88 148" fill="none" stroke="#7fd8ff" stroke-width="3" stroke-dasharray="24" stroke-dashoffset="24">
+<animate attributeName="stroke-dashoffset" values="24;24;0;0" keyTimes="0;0.1643;0.1929;1" dur="14.0s" repeatCount="indefinite"/>
+</path>
+<text x="108" y="160">Latihan Python sedikit demi sedikit setiap minggu</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2143;0.2429;1" dur="14.0s" repeatCount="indefinite"/>
+<rect x="70" y="179" width="20" height="20" fill="none" stroke="#7fd8ff" stroke-width="2"/>
+<path d="M74 189 L79 194 L88 183" fill="none" stroke="#7fd8ff" stroke-width="3" stroke-dasharray="24" stroke-dashoffset="24">
+<animate attributeName="stroke-dashoffset" values="24;24;0;0" keyTimes="0;0.2286;0.2571;1" dur="14.0s" repeatCount="indefinite"/>
+</path>
+<text x="108" y="195">Bikin satu proyek machine learning, dari awal sampai tampil di web</text>
+</g>
+</g>
+<g transform="translate(790 220) rotate(-10)" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2857;0.3071;1" dur="14.0s" repeatCount="indefinite"/>
+<g filter="url(#g)">
+<animate attributeName="opacity" values="1;0.5;1" dur="1.6s" repeatCount="indefinite"/>
+<rect x="-46" y="-17" width="92" height="34" fill="none" stroke="#ff5a1f" stroke-width="3"/>
+<text x="0" y="6" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="17" font-weight="bold" fill="#ff5a1f">SELESAI</text>
+</g>
+</g>
+<text x="70" y="236" font-family="'Courier New',Courier,monospace" font-size="13" fill="#7fd8ff">4/4 misi selesai</text>
+<polygon points="40,20 840,20 860,40 860,250 60,250 40,230" fill="url(#scan)"/>
+</g>
+<g transform="translate(0 1120)">
+<polygon points="40,12 840,12 860,32 860,138 60,138 40,118" fill="#0f1115" stroke="#ff5a1f" stroke-width="2"/>
+<rect x="60" y="16" width="770" height="6" fill="url(#haz)"/>
+<text x="70" y="44" font-family="'Courier New',Courier,monospace" font-size="14" fill="#ff5a1f">// perkakas.cfg</text>
+<text x="845" y="44" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="13" fill="#8a94a6">6 modul aktif</text>
+<g font-family="'Courier New',Courier,monospace" font-size="18" font-weight="bold" fill="#f2f4f8" text-anchor="middle">
+<g transform="translate(70 62)" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.0214;0.0429;1" dur="14.0s" repeatCount="indefinite"/>
+<polygon points="0,0 63,0 73,10 73,40 10,40 0,30" fill="#151921" stroke="#ff5a1f" stroke-width="2"/>
+<text x="36" y="26">HTML</text>
+</g>
+<g transform="translate(155 62)" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.0429;0.0643;1" dur="14.0s" repeatCount="indefinite"/>
+<polygon points="0,0 52,0 62,10 62,40 10,40 0,30" fill="#151921" stroke="#7fd8ff" stroke-width="2"/>
+<text x="31" y="26">CSS</text>
+</g>
+<g transform="translate(229 62)" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.0643;0.0857;1" dur="14.0s" repeatCount="indefinite"/>
+<polygon points="0,0 85,0 95,10 95,40 10,40 0,30" fill="#151921" stroke="#ff5a1f" stroke-width="2"/>
+<text x="47" y="26">Python</text>
+</g>
+<g transform="translate(336 62)" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.0857;0.1071;1" dur="14.0s" repeatCount="indefinite"/>
+<polygon points="0,0 96,0 106,10 106,40 10,40 0,30" fill="#151921" stroke="#7fd8ff" stroke-width="2"/>
+<text x="53" y="26">Jupyter</text>
+</g>
+<g transform="translate(454 62)" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1071;0.1286;1" dur="14.0s" repeatCount="indefinite"/>
+<polygon points="0,0 52,0 62,10 62,40 10,40 0,30" fill="#151921" stroke="#ff5a1f" stroke-width="2"/>
+<text x="31" y="26">Git</text>
+</g>
+<g transform="translate(528 62)" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1286;0.1500;1" dur="14.0s" repeatCount="indefinite"/>
+<polygon points="0,0 96,0 106,10 106,40 10,40 0,30" fill="#151921" stroke="#7fd8ff" stroke-width="2"/>
+<text x="53" y="26">VS Code</text>
+</g>
+</g>
+<rect x="70" y="118" width="0" height="2" fill="#ff5a1f">
+<animate attributeName="width" values="0;0;720;720" keyTimes="0;0.0143;0.1714;1" dur="14.0s" repeatCount="indefinite"/>
+</rect>
+<polygon points="40,12 840,12 860,32 860,138 60,138 40,118" fill="url(#scan)"/>
+</g>
+<g transform="translate(0 1270)">
+<polygon points="40,12 840,12 860,32 860,318 60,318 40,298" fill="#0f1115" stroke="#ff5a1f" stroke-width="2"/>
+<rect x="60" y="16" width="770" height="6" fill="url(#haz)"/>
+<text x="70" y="44" font-family="'Courier New',Courier,monospace" font-size="14" fill="#ff5a1f">// proyek.db  -  4 repo</text>
+<g font-family="'Courier New',Courier,monospace">
+<g transform="translate(70 62)" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.0214;0.0500;1" dur="14.0s" repeatCount="indefinite"/>
+<polygon points="0,0 370,0 380,10 380,120 10,120 0,110" fill="#151921" stroke="#2a303c" stroke-width="2"/>
+<rect x="0" y="10" width="4" height="100" fill="#ff5a1f"/>
+<text x="20" y="34" font-size="17" font-weight="bold" fill="#f2f4f8">breastcancer-prediction</text>
+<text x="20" y="62" font-size="14" fill="#8a94a6">Prediksi kanker payudara</text>
+<rect x="20" y="82" width="52" height="22" fill="none" stroke="#7fd8ff" stroke-width="1.5"/>
+<text x="46" y="98" font-size="12" text-anchor="middle" fill="#7fd8ff">HTML</text>
+<circle cx="362" cy="94" r="4" fill="#ff5a1f">
+<animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/>
+</circle>
+</g>
+<g transform="translate(460 62)" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.0571;0.0857;1" dur="14.0s" repeatCount="indefinite"/>
+<polygon points="0,0 370,0 380,10 380,120 10,120 0,110" fill="#151921" stroke="#2a303c" stroke-width="2"/>
+<rect x="0" y="10" width="4" height="100" fill="#7fd8ff"/>
+<text x="20" y="34" font-size="17" font-weight="bold" fill="#f2f4f8">diabetes-web</text>
+<text x="20" y="62" font-size="14" fill="#8a94a6">Web prediksi diabetes</text>
+<rect x="20" y="82" width="44" height="22" fill="none" stroke="#7fd8ff" stroke-width="1.5"/>
+<text x="42" y="98" font-size="12" text-anchor="middle" fill="#7fd8ff">WEB</text>
+<circle cx="362" cy="94" r="4" fill="#ff5a1f">
+<animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/>
+</circle>
+</g>
+<g transform="translate(70 192)" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.0929;0.1214;1" dur="14.0s" repeatCount="indefinite"/>
+<polygon points="0,0 370,0 380,10 380,120 10,120 0,110" fill="#151921" stroke="#2a303c" stroke-width="2"/>
+<rect x="0" y="10" width="4" height="100" fill="#7fd8ff"/>
+<text x="20" y="34" font-size="17" font-weight="bold" fill="#f2f4f8">road-detection1</text>
+<text x="20" y="62" font-size="14" fill="#8a94a6">Deteksi jalan</text>
+<rect x="20" y="82" width="78" height="22" fill="none" stroke="#7fd8ff" stroke-width="1.5"/>
+<text x="59" y="98" font-size="12" text-anchor="middle" fill="#7fd8ff">JUPYTER</text>
+<circle cx="362" cy="94" r="4" fill="#ff5a1f">
+<animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/>
+</circle>
+</g>
+<g transform="translate(460 192)" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1286;0.1571;1" dur="14.0s" repeatCount="indefinite"/>
+<polygon points="0,0 370,0 380,10 380,120 10,120 0,110" fill="#151921" stroke="#2a303c" stroke-width="2"/>
+<rect x="0" y="10" width="4" height="100" fill="#ff5a1f"/>
+<text x="20" y="34" font-size="17" font-weight="bold" fill="#f2f4f8">tsm-web</text>
+<text x="20" y="62" font-size="14" fill="#8a94a6">Proyek web</text>
+<rect x="20" y="82" width="52" height="22" fill="none" stroke="#7fd8ff" stroke-width="1.5"/>
+<text x="46" y="98" font-size="12" text-anchor="middle" fill="#7fd8ff">HTML</text>
+<circle cx="362" cy="94" r="4" fill="#ff5a1f">
+<animate attributeName="opacity" values="1;0.2;1" dur="2.0s" repeatCount="indefinite"/>
+</circle>
+</g>
+</g>
+<polygon points="40,12 840,12 860,32 860,318 60,318 40,298" fill="url(#scan)"/>
+</g>
+<g transform="translate(0 1600)">
+<polygon points="40,12 840,12 860,32 860,148 60,148 40,128" fill="#0f1115" stroke="#ff5a1f" stroke-width="2"/>
+<rect x="60" y="16" width="770" height="6" fill="url(#haz)"/>
+<text x="70" y="44" font-family="'Courier New',Courier,monospace" font-size="14" fill="#ff5a1f">// kontak</text>
+<g font-family="'Courier New',Courier,monospace" font-size="16">
+<text clip-path="url(#k12)" x="70" y="79" fill="#f2f4f8" xml:space="preserve"><tspan fill="#7fd8ff">email</tspan> : finanurilaulia2104@gmail.com</text>
+<text clip-path="url(#k13)" x="70" y="107" fill="#f2f4f8" xml:space="preserve"><tspan fill="#7fd8ff">ig   </tspan> : @finanrl_</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" values="0;1" keyTimes="0;0.2071" dur="14.0s" repeatCount="indefinite"/>
+<rect x="237" y="92" width="10" height="18" fill="#ff5a1f">
+<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+</g>
+<line x1="60" y1="120" x2="850" y2="120" stroke="#1d222b" stroke-width="2"/>
+<text x="70" y="139" font-family="'Courier New',Courier,monospace" font-size="12" fill="#8a94a6">(c) 2026 FINA NURIL AULIA  |  masih belajar, terus berkembang</text>
+<polygon points="40,12 840,12 860,32 860,148 60,148 40,128" fill="url(#scan)"/>
+</g>
+</svg>
